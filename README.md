@@ -6,13 +6,13 @@
 
 ## Contests
 
-### 一、UI（User Interface）
+### 一、高级UI（User Interface）
 
 > ##### 推荐阅读书籍：
 
-- [《Android群英传》]("https:)  已阅读
+- 《Android群英传》  已阅读
 
-- [《Android自定义控件开发入门与实战》](http://) 已阅读
+- 《Android自定义控件开发入门与实战》 已阅读
 
 #### 1.1、UI绘制流程原理
 
@@ -28,11 +28,11 @@
 
 > ##### 推荐阅读书籍：
 
-- [《Android源码设计模式解析与实战》]("https:)  未阅读
+- 《Android源码设计模式解析与实战》未阅读
 
-- [《Android开发艺术探索》](http://) 已阅读
+- 《Android开发艺术探索》已阅读
 
-- [《Android进阶之光》](http://) 未阅读
+- 《Android进阶之光》未阅读
 
 ####  2.1、设计思想与代码质量优化
 
@@ -70,7 +70,37 @@
 
 #### 2.5、网络访问框架
 
+##### 2.5.1、OkHttp源码详解与架构分析
+
+##### 2.5.2、Retrofit源码详解与架构分析
+
+##### 2.5.3、RxJava源码详解与架构分析
+
+#### 2.6、图片加载框架
+
+##### 2.6.1、Glide源码详解与架构分析
+
+##### 2.6.2、Process源码详解与架构分析
+
+#### 2.7、缓存框架
+
+##### 2.7.1、RxCache源码详解
+
+##### 2.7.2、ACache源码详解
+
+##### 2.7.3、LruCache、DiskLruCache源码详解
+
+#### 2.8、IOC框架
+
+##### 2.8.1、ButterKnife详解与原理分析
+
+##### 2.8.2、Dagger2详解与原理分析
+
+##### 2.8.3、DataBinding详解与原理分析
+
 ### 三、性能优化
+
+待更新~
 
 ### 四、屏幕适配
 
@@ -86,6 +116,7 @@
 <img src="https://github.com/WeiSmart/tablayout/blob/master/screenshots/zifubao_pay.jpg" width=20%>
 </div>
 ---
+
 ## About me
 - #### Email:linwei9605@gmail.com   
 - #### Blog: [https://offer.github.io/](https://offer.github.io/)
