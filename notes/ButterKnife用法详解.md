@@ -6,7 +6,7 @@ ButterKnife(黄油刀)是一种IOC框架，专注于Android中View控件，事�
 
 
 
-![butterKnife](C:\Users\LW\Desktop\Android-Advanced-CloudMap\screenshots\butterKnife.png)
+![butterKnife](https://github.com/WeiSmart/Android-Advanced-CloudMap/blob/master/screenshots/butterKnife.png)
 
 ## Contests
 
@@ -370,6 +370,7 @@ public void onViewClicked() {
 <img src="https://github.com/WeiSmart/tablayout/blob/master/screenshots/zifubao_pay.jpg" width=20%>
 </div>
 ---
+
 ## About me
 - #### Email:linwei9605@gmail.com   
 - #### Blog: [https://offer.github.io/](https://offer.github.io/)
