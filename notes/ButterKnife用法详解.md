@@ -1,10 +1,9 @@
 # ButterKnife用法详解
+### 如何成为T型人才，垂直在一个行业中，必须要有一整套[知识体系](https://github.com/WeiSmart/Android-Advanced-CloudMap)，在这里，就一个字坚持~
 
 ## 前言
 
 ButterKnife(黄油刀)是一种IOC框架，专注于Android中View控件，事件监听注入。而且，在性能方面的考虑，使用注解+APT运行时进行解析，放弃已往通过放射实现方式。在使用ButterKnife进行项目开发，用起来是比较简洁的，但是简洁的背后不代表容易，后期我会对[ButterKnife](https://jakewharton.github.io/butterknife/) 源码进行分析。谢谢大家~~
-
-
 
 ![butterKnife](https://github.com/WeiSmart/Android-Advanced-CloudMap/blob/master/screenshots/butterKnife.png)
 
