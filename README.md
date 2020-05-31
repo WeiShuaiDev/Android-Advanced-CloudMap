@@ -94,8 +94,7 @@
 #### 2.8、IOC框架
 
 ##### 2.8.1、ButterKnife详解与原理分析
-- [ButterKnife用法详解](https://github.com/WeiSmart/Android-Advanced-CloudMap/blob/master/notes/ButterKnife%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3.md)
-- [Annotation神秘面纱](https://github.com/WeiSmart/Android-Advanced-CloudMap/blob/master/notes/Anotations%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1.md)
+
 ##### 2.8.2、Dagger2详解与原理分析
 
 ##### 2.8.3、DataBinding详解与原理分析
